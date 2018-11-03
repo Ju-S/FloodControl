@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/wntjd/Desktop/FloodControl-master/FloodControl/FloodControl/Content/Textures/Background.png</File>
+    <File>C:/Users/wntjd/Desktop/FloodControl-master/FloodControl/FloodControl/Content/Textures/Tile_Sheet.png</File>
+    <File>C:/Users/wntjd/Desktop/FloodControl-master/FloodControl/FloodControl/Content/Textures/TitleScreen.png</File>
+    <File>C:/Users/wntjd/Desktop/FloodControl-master/FloodControl/FloodControl/Content/Fonts/Pericles36.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
